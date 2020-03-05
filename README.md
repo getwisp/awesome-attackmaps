@@ -2,6 +2,9 @@
 Awesome, amazing, fantabulous, supercalidocous, llamas-ass-whipping list of attack maps.
 
 --------------------
+_Serious Maps: Real life_
+- [Novel Coronavirus Overview Map](https://www.mapbox.cn/coronavirusmap)
+- ["The Coronavirus App" Map](https://coronavirus.app/map)
 
 _Serious Maps (dynamic)_
 - [Arbor Network Digital Attack Map](https://www.digitalattackmap.com)
