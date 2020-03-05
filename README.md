@@ -1,5 +1,5 @@
 # awesome-attackmaps
-Awesome, amazing, fantabulous, supercalidocous, llamas-ass-whipping list of attack maps.
+Awesome, amazing, fantabulous, supercalifragilisticexpialidocious, llamas-ass-whipping list of attack maps.
 
 --------------------
 _Serious Maps: Real life_
